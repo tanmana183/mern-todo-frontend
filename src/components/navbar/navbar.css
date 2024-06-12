@@ -1,0 +1,10 @@
+.image{
+    height:35px;
+    width:35px
+}
+
+.btn-nav{
+    background-color: rgb(75, 188, 196);
+    border-radius: 10px;
+    color:white !important;
+}
